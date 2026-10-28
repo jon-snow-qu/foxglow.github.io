@@ -1,6 +1,6 @@
 # 我的奶茶小店 · 隐私政策
 
-开发者：瞿万里  
+开发者：Foxglow Studio  
 隐私联系邮箱：18321366373@163.com
 
 公开政策地址：**https://jon-snow-qu.github.io/foxglow.github.io/privacy.html**  
